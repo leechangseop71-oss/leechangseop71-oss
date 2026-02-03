@@ -1,145 +1,63 @@
 👋 Changseop Lee
 
-Junior Security Analyst | Blue Team · White Hat
+🛡️ Junior Security Analyst | Blue Team · SOC
 
-🔐 Professional Summary
+🔐 About Me
 
-Entry-level Blue Team–oriented security analyst with a strong focus on
-log-based threat detection, incident analysis, and system/network security fundamentals.
+🧑‍💻 Entry-level Blue Team / SOC-oriented security analyst
+📊 Focused on log analysis, threat detection, and incident response fundamentals
 
-I approach security from an evidence-first mindset, emphasizing how attacks manifest in logs and how anomalies can be interpreted, correlated, and explained within a SOC environment.
+🔍 Evidence-first security mindset
 
-Focus: Log Analysis, SIEM, Incident Detection & Response
+🧠 Logs → Indicators → Root Cause → Response
 
-Strength: Translating alerts into clear attack narratives
+📝 Learning through documentation (GitHub & Blog)
 
-Working style: Documentation-driven, analytical, process-oriented
+🧭 Focus Areas
 
-🧭 Security Focus (Blue Team / SOC)
+📡 Log Analysis (Linux / Windows)
 
-I aim to grow as a defensive white hat hacker who understands attacks from the detection and response perspective, rather than exploitation alone.
+🚨 SIEM & Incident Detection
 
-Analyze attacker behavior via logs, system events, and network traces
+🖥️ System & Network Security Basics
 
-Reverse-engineer common attack techniques into detection use cases
+🛠️ SOC Workflow & Reporting
 
-Practice SOC-aligned workflows: triage → analysis → response → reporting
+🛠 Tech Stack
 
-“Good defenders don’t guess.
-They explain incidents with evidence.”
+🐧 Linux (Ubuntu) · CLI
 
-🛠 Technical Skills
-Security & Monitoring
+🌐 TCP/IP · DNS · HTTP/S
 
-Windows / Linux log analysis
+📦 VMware Lab Environments
 
-Incident detection and basic response workflows
+📄 Log-based Analysis Tools
 
-SIEM architecture and detection use cases
+🧪 Hands-on Practice
 
-Alert triage and anomaly investigation
+🔐 Authentication abuse & anomaly detection
 
-System & Network
+🕵️ Brute-force & suspicious login analysis
 
-Linux (Ubuntu) administration & basic hardening
+📑 SOC-style investigation notes
 
-TCP/IP, DNS, HTTP/S traffic fundamentals
+📂 GitHub Repositories
 
-Understanding of network attack flows
-(scanning, brute force, privilege escalation concepts)
+📘 security-study – Security fundamentals (attack ↔ detection)
 
-Tools & Environment
+📊 log-analysis-notes – Log-based incident analysis
 
-Linux CLI
+🧪 linux-security-lab – Linux security & defensive labs
 
-Log analysis utilities
+🎓 Certifications
 
-VMware-based virtual lab environments
+✅ Linux Master Level 2 (Written Passed)
 
-🧪 Hands-on Experience (Labs & Self-Study)
+📘 Network Administrator Level 2 (In Progress)
 
-Investigated authentication failures and suspicious login patterns using Linux logs
+📘 Information Security Industrial Engineer (Process-based)
 
-Analyzed simple intrusion scenarios and mapped them to detection points
+💬 Motto
 
-Documented attack flow → indicators → response actions in SOC-style reports
-
-📂 Projects & Repositories
-
-security-study
-Security fundamentals with attacker vs defender perspectives
-
-log-analysis-notes
-Log-based detection concepts and incident analysis notes
-
-linux-security-lab
-Linux security configuration and defensive practice labs
-
-📜 Certifications
-
-Linux Master Level 2 – Written Exam Passed
-
-Network Administrator Level 2 – In Progress
-
-Information Security Industrial Engineer (Process-based) – In Progress
-
-Information Security Engineer – Studying
-
-Certifications are used to reinforce practical defensive understanding.
-
-💬 Closing Statement
-
-“Security monitoring is not about reacting to alerts,
-but about connecting evidence to understand the attack story.”
-
-🧩 Resume (CV) – Matching Bullet Set (Overseas Style)
-
-아래 문구는 이력서에 바로 쓰는 버전입니다.
-(README와 표현·논리 100% 일치)
-
-Professional Summary
-
-Junior Security Analyst (Blue Team) with hands-on experience in log analysis, incident detection, and security monitoring fundamentals.
-Strong interest in SOC operations, SIEM use cases, and evidence-based incident response.
-
-Core Skills
-
-Log Analysis (Linux / Windows)
-
-Incident Detection & Response (Entry-level)
-
-SIEM Concepts & Use Cases
-
-Linux System Security Fundamentals
-
-Network Traffic & Attack Flow Analysis
-
-Hands-on Security Experience
-
-Analyzed Linux authentication and system logs to identify suspicious activity
-
-Investigated brute-force and unauthorized access patterns in simulated environments
-
-Mapped attack behavior to detection points and response actions
-
-Documented findings in structured, SOC-style analysis notes
-
-Technical Environment
-
-Linux (Ubuntu), CLI-based analysis
-
-VMware virtualized lab environments
-
-Log-centric security investigation workflows
-
-Certifications
-
-Linux Master Level 2 – Written Exam Passed
-
-Network Administrator Level 2 – In Progress
-
-Information Security Industrial Engineer (Process-based) – In Progress
-
-Career Objective
-
-To start my career as a Junior Blue Team / SOC Analyst, contributing to security monitoring, incident analysis, and continuous improvement of detection capabilities while growing into a well-rounded defensive security professional.
+🚨 “Security is not about alerts,
+but about connecting evidence.”
